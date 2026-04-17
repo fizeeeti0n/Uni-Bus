@@ -1,0 +1,11 @@
+{
+  "name": "uni-bus-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "test": "npm run test --prefix frontend",
+    "test:watch": "npm run test:watch --prefix frontend",
+    "test:e2e": "npm run test:e2e --prefix frontend"
+  }
+}
